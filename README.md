@@ -1,0 +1,1 @@
+This is a project to make a Rock, Paper, Scissors game. It will initially be played entirely in the console, however I will add a front-end to it at a later point.
